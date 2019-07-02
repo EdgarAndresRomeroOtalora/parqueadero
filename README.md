@@ -13,3 +13,5 @@ dirigirse a una interfaz que muestra una lista de los vehiculos parqueados.
 El proyecto fue realizado utilizando programación orientada a objetos, serialización, ArrayList y Date.
 
 Hay dos archivos, uno con el proyecto y el otro con el .jar y los dos archivos de texto.
+
+Cualquier consulta, mi correo es andres.romero.otalora@gmail.com
